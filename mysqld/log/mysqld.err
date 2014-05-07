@@ -1,0 +1,901 @@
+140501 18:34:45 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140501 18:34:45 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140501 18:35:05 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140501 18:35:05 [Warning] One can only use the --user switch if running as root
+
+140501 18:35:05 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140501 18:35:05  InnoDB: Initializing buffer pool, size = 16.0M
+140501 18:35:05  InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file ./ibdata1 did not exist:
+InnoDB: a new database to be created!
+140501 18:35:05  InnoDB: Setting file ./ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+140501 18:35:05  InnoDB: Log file ./ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+140501 18:35:06  InnoDB: Log file ./ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+140501 18:35:06  InnoDB: Started; log sequence number 0 0
+140501 18:35:06 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140501 18:35:06 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140501 18:35:06 [ERROR] Aborting
+
+140501 18:35:06  InnoDB: Starting shutdown...
+140501 18:35:11  InnoDB: Shutdown completed; log sequence number 0 44233
+140501 18:35:11 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140501 18:35:11 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140501 18:40:59 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140501 18:40:59 [Warning] One can only use the --user switch if running as root
+
+140501 18:40:59 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140501 18:40:59  InnoDB: Initializing buffer pool, size = 16.0M
+140501 18:40:59  InnoDB: Completed initialization of buffer pool
+140501 18:40:59  InnoDB: Started; log sequence number 0 44233
+140501 18:40:59 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140501 18:40:59 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140501 18:40:59 [ERROR] Aborting
+
+140501 18:40:59  InnoDB: Starting shutdown...
+140501 18:41:04  InnoDB: Shutdown completed; log sequence number 0 44233
+140501 18:41:04 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140501 18:41:04 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140501 18:44:00 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140501 18:44:00 [Warning] One can only use the --user switch if running as root
+
+140501 18:44:00 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140501 18:44:00  InnoDB: Initializing buffer pool, size = 16.0M
+140501 18:44:00  InnoDB: Completed initialization of buffer pool
+140501 18:44:00  InnoDB: Started; log sequence number 0 44233
+140501 18:44:00 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140501 18:44:00 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140501 18:44:00 [ERROR] Aborting
+
+140501 18:44:00  InnoDB: Starting shutdown...
+140501 18:44:05  InnoDB: Shutdown completed; log sequence number 0 44233
+140501 18:44:05 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140501 18:44:05 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140502 14:11:41 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140502 14:11:41 [Warning] One can only use the --user switch if running as root
+
+140502 14:11:41 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140502 14:11:41  InnoDB: Initializing buffer pool, size = 16.0M
+140502 14:11:41  InnoDB: Completed initialization of buffer pool
+140502 14:11:41  InnoDB: Started; log sequence number 0 44233
+140502 14:11:41 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140502 14:11:41 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140502 14:11:41 [ERROR] Aborting
+
+140502 14:11:41  InnoDB: Starting shutdown...
+140502 14:11:47  InnoDB: Shutdown completed; log sequence number 0 44233
+140502 14:11:47 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140502 14:11:47 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140502 14:15:22 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140502 14:15:22 [Warning] One can only use the --user switch if running as root
+
+140502 14:15:22 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140502 14:15:22  InnoDB: Initializing buffer pool, size = 16.0M
+140502 14:15:22  InnoDB: Completed initialization of buffer pool
+140502 14:15:22  InnoDB: Started; log sequence number 0 44233
+140502 14:15:22 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140502 14:15:22 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140502 14:15:22 [ERROR] Aborting
+
+140502 14:15:22  InnoDB: Starting shutdown...
+140502 14:15:28  InnoDB: Shutdown completed; log sequence number 0 44233
+140502 14:15:28 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140502 14:15:28 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140502 14:21:20 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140502 14:21:20 [Warning] One can only use the --user switch if running as root
+
+140502 14:21:20 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140502 14:21:20  InnoDB: Initializing buffer pool, size = 16.0M
+140502 14:21:20  InnoDB: Completed initialization of buffer pool
+140502 14:21:20  InnoDB: Started; log sequence number 0 44233
+140502 14:21:20 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140502 14:21:20 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140502 14:21:20 [ERROR] Aborting
+
+140502 14:21:20  InnoDB: Starting shutdown...
+140502 14:21:25  InnoDB: Shutdown completed; log sequence number 0 44233
+140502 14:21:25 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140502 14:21:25 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140502 14:24:58 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140502 14:24:58 [Warning] One can only use the --user switch if running as root
+
+140502 14:24:58 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140502 14:24:58  InnoDB: Initializing buffer pool, size = 16.0M
+140502 14:24:58  InnoDB: Completed initialization of buffer pool
+140502 14:24:58  InnoDB: Started; log sequence number 0 44233
+140502 14:24:58 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140502 14:24:58 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140502 14:24:58 [ERROR] Aborting
+
+140502 14:24:58  InnoDB: Starting shutdown...
+140502 14:25:04  InnoDB: Shutdown completed; log sequence number 0 44233
+140502 14:25:04 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140502 14:25:04 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140502 14:30:05 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140502 14:30:05 [Warning] One can only use the --user switch if running as root
+
+140502 14:30:05 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140502 14:30:05  InnoDB: Initializing buffer pool, size = 16.0M
+140502 14:30:05  InnoDB: Completed initialization of buffer pool
+140502 14:30:05  InnoDB: Started; log sequence number 0 44233
+140502 14:30:05 [Note] Event Scheduler: Loaded 0 events
+140502 14:30:05 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33061  Gentoo Linux mysql-5.1.70
+
+Status information:
+
+Current dir: /homes/okorneck/mysqld/data/
+Running threads: 0  Stack size: 262144
+Current locks:
+lock: 0x32fe768:
+
+lock: 0x32f3a38:
+
+lock: 0x32e8e98:
+
+lock: 0x32dff58:
+
+lock: 0x32d5b88:
+
+lock: 0x32c6548:
+
+lock: 0x32c0688:
+
+lock: 0x32b89e8:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_limit:             300
+blocks used:             0
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:              0
+reads:                   0
+
+
+handler status:
+read_key:            0
+read_next:           0
+read_rnd             0
+read_first:          3
+write:               0
+delete               0
+update:              0
+
+Table status:
+Opened tables:         15
+Open tables:            8
+Open files:            18
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 1
+Next alarm time: 0
+
+Begin safemalloc memory dump:
+
+End safemalloc memory dump.
+
+Memory status:
+Non-mmapped space allocated from system: 6815744
+Number of free chunks:			 24
+Number of fastbin blocks:		 2
+Number of mmapped regions:		 10
+Space in mmapped regions:		 48607232
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 80
+Total allocated space:			 6317680
+Total free space:			 498064
+Top-most, releasable space:		 77824
+Estimated memory (with thread stack):    55422976
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:132
+LUA             : init_queue:142
+WOC             : NO
+Next activation : never
+
+Status information:
+
+Current dir: /homes/okorneck/mysqld/data/
+Running threads: 0  Stack size: 262144
+Current locks:
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_limit:             300
+blocks used:             0
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:              0
+reads:                   0
+
+
+handler status:
+read_key:            0
+read_next:           0
+read_rnd             0
+read_first:          5
+write:               0
+delete               0
+update:              0
+
+Table status:
+Opened tables:         15
+Open tables:            0
+Open files:             2
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 1
+Next alarm time: 0
+
+Begin safemalloc memory dump:
+
+End safemalloc memory dump.
+
+Memory status:
+Non-mmapped space allocated from system: 6815744
+Number of free chunks:			 33
+Number of fastbin blocks:		 2
+Number of mmapped regions:		 10
+Space in mmapped regions:		 48607232
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 80
+Total allocated space:			 6085072
+Total free space:			 730672
+Top-most, releasable space:		 106720
+Estimated memory (with thread stack):    55422976
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:132
+LUA             : init_queue:142
+WOC             : NO
+Next activation : never
+140502 14:34:56 mysqld_safe A mysqld process already exists
+140502 14:38:33 mysqld_safe A mysqld process already exists
+140502 14:41:08 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140502 14:41:09 [Warning] One can only use the --user switch if running as root
+
+140502 14:41:09 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140502 14:41:09  InnoDB: Initializing buffer pool, size = 16.0M
+140502 14:41:09  InnoDB: Completed initialization of buffer pool
+140502 14:41:09  InnoDB: Started; log sequence number 0 44233
+140502 14:41:09 [Note] Recovering after a crash using mysqld-bin
+140502 14:41:09 [Note] Starting crash recovery...
+140502 14:41:09 [Note] Crash recovery finished.
+140502 14:41:09 [Note] Event Scheduler: Loaded 0 events
+140502 14:41:09 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33061  Gentoo Linux mysql-5.1.70
+140502 14:44:54 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140502 14:44:55 [Note] Event Scheduler: Purging the queue. 0 events
+140502 14:44:55  InnoDB: Starting shutdown...
+140502 14:44:59  InnoDB: Shutdown completed; log sequence number 0 44233
+140502 14:44:59 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140502 14:44:59 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140502 14:45:19 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140502 14:45:19 [Warning] One can only use the --user switch if running as root
+
+140502 14:45:19 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140502 14:45:19  InnoDB: Initializing buffer pool, size = 16.0M
+140502 14:45:19  InnoDB: Completed initialization of buffer pool
+140502 14:45:19  InnoDB: Started; log sequence number 0 44233
+140502 14:45:19 [Note] Event Scheduler: Loaded 0 events
+140502 14:45:19 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33061  Gentoo Linux mysql-5.1.70
+140502 14:51:47 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140502 14:51:47 [Note] Event Scheduler: Purging the queue. 0 events
+140502 14:51:47  InnoDB: Starting shutdown...
+140502 14:51:50  InnoDB: Shutdown completed; log sequence number 0 44233
+140502 14:51:50 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140502 14:51:50 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140502 14:51:54 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140502 14:51:54 [Warning] One can only use the --user switch if running as root
+
+140502 14:51:54 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140502 14:51:54  InnoDB: Initializing buffer pool, size = 16.0M
+140502 14:51:54  InnoDB: Completed initialization of buffer pool
+140502 14:51:54  InnoDB: Started; log sequence number 0 44233
+140502 14:51:55 [Note] Event Scheduler: Loaded 0 events
+140502 14:51:55 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33061  Gentoo Linux mysql-5.1.70
+140502 16:54:46 [Warning] Statement may not be safe to log in statement format. Statement: INSERT INTO image (name,picture) VALUES('eye', LOAD_FILE('/homes/okorneck/eye.jpg'))
+
+Status information:
+
+Current dir: /homes/okorneck/mysqld/data/
+Running threads: 0  Stack size: 262144
+Current locks:
+lock: 0x7f63d401f378:
+
+lock: 0x7f63d4010018:
+
+lock: 0x2f7e768:
+
+lock: 0x2f73a38:
+
+lock: 0x2f68e98:
+
+lock: 0x2f5ff58:
+
+lock: 0x2f55b88:
+
+lock: 0x2f46548:
+
+lock: 0x2f40688:
+
+lock: 0x2f389e8:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_limit:             300
+blocks used:             0
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:              0
+reads:                   0
+
+
+handler status:
+read_key:            0
+read_next:           0
+read_rnd             0
+read_first:         10
+write:              59
+delete               0
+update:              0
+
+Table status:
+Opened tables:         28
+Open tables:           10
+Open files:            22
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 1
+Next alarm time: 0
+
+Begin safemalloc memory dump:
+
+End safemalloc memory dump.
+
+Memory status:
+Non-mmapped space allocated from system: 6942720
+Number of free chunks:			 28
+Number of fastbin blocks:		 0
+Number of mmapped regions:		 10
+Space in mmapped regions:		 48607232
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 0
+Total allocated space:			 6338192
+Total free space:			 604528
+Top-most, releasable space:		 77824
+Estimated memory (with thread stack):    55549952
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:132
+LUA             : init_queue:142
+WOC             : NO
+Next activation : never
+140502 17:38:21 mysqld_safe A mysqld process already exists
+140502 17:38:31 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140502 17:38:31 [Note] Event Scheduler: Purging the queue. 0 events
+140502 17:38:31  InnoDB: Starting shutdown...
+140502 17:38:34  InnoDB: Shutdown completed; log sequence number 0 44233
+140502 17:38:34 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140502 17:38:34 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140503 17:32:44 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140503 17:32:44 [Warning] One can only use the --user switch if running as root
+
+140503 17:32:44 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140503 17:32:44  InnoDB: Initializing buffer pool, size = 16.0M
+140503 17:32:44  InnoDB: Completed initialization of buffer pool
+140503 17:32:45  InnoDB: Started; log sequence number 0 44233
+140503 17:32:45 [Note] Event Scheduler: Loaded 0 events
+140503 17:32:45 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140503 19:10:31 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140503 19:10:31 [Note] Event Scheduler: Purging the queue. 0 events
+140503 19:10:33  InnoDB: Starting shutdown...
+140503 19:10:35  InnoDB: Shutdown completed; log sequence number 0 44233
+140503 19:10:35 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140503 19:10:35 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140503 21:05:45 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140503 21:05:45 [Warning] One can only use the --user switch if running as root
+
+140503 21:05:45 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140503 21:05:45  InnoDB: Initializing buffer pool, size = 16.0M
+140503 21:05:45  InnoDB: Completed initialization of buffer pool
+140503 21:05:45  InnoDB: Started; log sequence number 0 44233
+140503 21:05:46 [Note] Event Scheduler: Loaded 0 events
+140503 21:05:46 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140503 21:07:58 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140503 21:07:58 [Note] Event Scheduler: Purging the queue. 0 events
+140503 21:07:58  InnoDB: Starting shutdown...
+140503 21:08:01  InnoDB: Shutdown completed; log sequence number 0 44233
+140503 21:08:01 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140503 21:08:01 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140503 21:08:39 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140503 21:08:39 [Warning] One can only use the --user switch if running as root
+
+140503 21:08:39 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140503 21:08:39  InnoDB: Initializing buffer pool, size = 16.0M
+140503 21:08:39  InnoDB: Completed initialization of buffer pool
+140503 21:08:39  InnoDB: Started; log sequence number 0 44233
+140503 21:08:39 [Note] Event Scheduler: Loaded 0 events
+140503 21:08:39 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140503 21:11:52 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140503 21:11:52 [Note] Event Scheduler: Purging the queue. 0 events
+140503 21:11:52  InnoDB: Starting shutdown...
+140503 21:11:55  InnoDB: Shutdown completed; log sequence number 0 44233
+140503 21:11:55 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140503 21:11:55 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140503 21:12:01 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140503 21:12:01 [Warning] One can only use the --user switch if running as root
+
+140503 21:12:01 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140503 21:12:01  InnoDB: Initializing buffer pool, size = 16.0M
+140503 21:12:01  InnoDB: Completed initialization of buffer pool
+140503 21:12:01  InnoDB: Started; log sequence number 0 44233
+140503 21:12:01 [Note] Event Scheduler: Loaded 0 events
+140503 21:12:01 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140503 21:12:22 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140503 21:12:22 [Note] Event Scheduler: Purging the queue. 0 events
+140503 21:12:22  InnoDB: Starting shutdown...
+140503 21:12:26  InnoDB: Shutdown completed; log sequence number 0 44233
+140503 21:12:26 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140503 21:12:26 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140503 21:12:49 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140503 21:12:49 [Warning] One can only use the --user switch if running as root
+
+140503 21:12:49 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140503 21:12:49  InnoDB: Initializing buffer pool, size = 16.0M
+140503 21:12:49  InnoDB: Completed initialization of buffer pool
+140503 21:12:49  InnoDB: Started; log sequence number 0 44233
+140503 21:12:49 [Note] Event Scheduler: Loaded 0 events
+140503 21:12:49 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140503 21:50:23 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140503 21:50:23 [Note] Event Scheduler: Purging the queue. 0 events
+140503 21:50:25  InnoDB: Starting shutdown...
+140503 21:50:26  InnoDB: Shutdown completed; log sequence number 0 44233
+140503 21:50:26 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140503 21:50:27 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140503 21:51:40 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140503 21:51:41 [Warning] One can only use the --user switch if running as root
+
+140503 21:51:41 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140503 21:51:41  InnoDB: Initializing buffer pool, size = 16.0M
+140503 21:51:41  InnoDB: Completed initialization of buffer pool
+140503 21:51:41  InnoDB: Started; log sequence number 0 44233
+140503 21:51:41 [Note] Event Scheduler: Loaded 0 events
+140503 21:51:41 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140503 22:10:04 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140503 22:10:04 [Note] Event Scheduler: Purging the queue. 0 events
+140503 22:10:06  InnoDB: Starting shutdown...
+140503 22:10:07  InnoDB: Shutdown completed; log sequence number 0 44233
+140503 22:10:07 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140503 22:10:07 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140503 22:10:11 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140503 22:10:12 [Warning] One can only use the --user switch if running as root
+
+140503 22:10:12 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140503 22:10:12  InnoDB: Initializing buffer pool, size = 16.0M
+140503 22:10:12  InnoDB: Completed initialization of buffer pool
+140503 22:10:12  InnoDB: Started; log sequence number 0 44233
+140503 22:10:12 [Note] Event Scheduler: Loaded 0 events
+140503 22:10:12 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140503 22:10:39 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140503 22:10:39 [Note] Event Scheduler: Purging the queue. 0 events
+140503 22:10:39  InnoDB: Starting shutdown...
+140503 22:10:42  InnoDB: Shutdown completed; log sequence number 0 44233
+140503 22:10:42 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140503 22:10:42 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140503 22:12:37 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140503 22:12:37 [Warning] One can only use the --user switch if running as root
+
+140503 22:12:37 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140503 22:12:37  InnoDB: Initializing buffer pool, size = 16.0M
+140503 22:12:37  InnoDB: Completed initialization of buffer pool
+140503 22:12:37  InnoDB: Started; log sequence number 0 44233
+140503 22:12:37 [Note] Event Scheduler: Loaded 0 events
+140503 22:12:37 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140503 22:48:26 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140503 22:48:26 [Note] Event Scheduler: Purging the queue. 0 events
+140503 22:48:26  InnoDB: Starting shutdown...
+140503 22:48:30  InnoDB: Shutdown completed; log sequence number 0 44233
+140503 22:48:30 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140503 22:48:30 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140504 20:58:03 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140504 20:58:03 [Warning] One can only use the --user switch if running as root
+
+140504 20:58:03 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140504 20:58:03  InnoDB: Initializing buffer pool, size = 16.0M
+140504 20:58:03  InnoDB: Completed initialization of buffer pool
+140504 20:58:03  InnoDB: Started; log sequence number 0 44233
+140504 20:58:03 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140504 20:58:03 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140504 20:58:03 [ERROR] Aborting
+
+140504 20:58:03  InnoDB: Starting shutdown...
+140504 20:58:08  InnoDB: Shutdown completed; log sequence number 0 44233
+140504 20:58:08 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140504 20:58:08 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140504 21:05:06 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140504 21:05:06 [Warning] One can only use the --user switch if running as root
+
+140504 21:05:06 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140504 21:05:06  InnoDB: Initializing buffer pool, size = 16.0M
+140504 21:05:06  InnoDB: Completed initialization of buffer pool
+140504 21:05:06  InnoDB: Started; log sequence number 0 44233
+140504 21:05:06 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140504 21:05:06 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140504 21:05:06 [ERROR] Aborting
+
+140504 21:05:06  InnoDB: Starting shutdown...
+140504 21:05:11  InnoDB: Shutdown completed; log sequence number 0 44233
+140504 21:05:11 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140504 21:05:11 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140504 21:05:24 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140504 21:05:24 [Warning] One can only use the --user switch if running as root
+
+140504 21:05:24 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140504 21:05:24  InnoDB: Initializing buffer pool, size = 16.0M
+140504 21:05:24  InnoDB: Completed initialization of buffer pool
+140504 21:05:24  InnoDB: Started; log sequence number 0 44233
+140504 21:05:24 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140504 21:05:24 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140504 21:05:24 [ERROR] Aborting
+
+140504 21:05:24  InnoDB: Starting shutdown...
+140504 21:05:29  InnoDB: Shutdown completed; log sequence number 0 44233
+140504 21:05:29 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140504 21:05:29 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140504 21:06:26 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140504 21:06:26 [Warning] One can only use the --user switch if running as root
+
+140504 21:06:26 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140504 21:06:26  InnoDB: Initializing buffer pool, size = 16.0M
+140504 21:06:26  InnoDB: Completed initialization of buffer pool
+140504 21:06:26  InnoDB: Started; log sequence number 0 44233
+140504 21:06:26 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140504 21:06:26 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140504 21:06:26 [ERROR] Aborting
+
+140504 21:06:26  InnoDB: Starting shutdown...
+140504 21:06:31  InnoDB: Shutdown completed; log sequence number 0 44233
+140504 21:06:31 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140504 21:06:31 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140504 21:08:20 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140504 21:08:20 [Warning] One can only use the --user switch if running as root
+
+140504 21:08:20 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140504 21:08:20  InnoDB: Initializing buffer pool, size = 16.0M
+140504 21:08:20  InnoDB: Completed initialization of buffer pool
+140504 21:08:20  InnoDB: Started; log sequence number 0 44233
+140504 21:08:20 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140504 21:08:20 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140504 21:08:20 [ERROR] Aborting
+
+140504 21:08:20  InnoDB: Starting shutdown...
+140504 21:08:25  InnoDB: Shutdown completed; log sequence number 0 44233
+140504 21:08:25 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140504 21:08:25 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140504 21:11:08 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140504 21:11:08 [Warning] One can only use the --user switch if running as root
+
+140504 21:11:08 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140504 21:11:08  InnoDB: Initializing buffer pool, size = 16.0M
+140504 21:11:08  InnoDB: Completed initialization of buffer pool
+140504 21:11:08  InnoDB: Started; log sequence number 0 44233
+140504 21:11:08 [Note] Event Scheduler: Loaded 0 events
+140504 21:11:08 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33065  Gentoo Linux mysql-5.1.70
+140504 21:17:08 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140504 21:17:08 [Note] Event Scheduler: Purging the queue. 0 events
+140504 21:17:08  InnoDB: Starting shutdown...
+140504 21:17:09  InnoDB: Shutdown completed; log sequence number 0 44233
+140504 21:17:09 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140504 21:17:09 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140504 21:17:31 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140504 21:17:31 [Warning] One can only use the --user switch if running as root
+
+140504 21:17:31 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140504 21:17:31  InnoDB: Initializing buffer pool, size = 16.0M
+140504 21:17:31  InnoDB: Completed initialization of buffer pool
+140504 21:17:31  InnoDB: Started; log sequence number 0 44233
+140504 21:17:31 [Note] Event Scheduler: Loaded 0 events
+140504 21:17:31 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33061  Gentoo Linux mysql-5.1.70
+140504 21:18:10 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140504 21:18:10 [Note] Event Scheduler: Purging the queue. 0 events
+140504 21:18:10  InnoDB: Starting shutdown...
+140504 21:18:11  InnoDB: Shutdown completed; log sequence number 0 44233
+140504 21:18:11 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140504 21:18:11 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140504 21:19:09 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140504 21:19:09 [Warning] One can only use the --user switch if running as root
+
+140504 21:19:09 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140504 21:19:09  InnoDB: Initializing buffer pool, size = 16.0M
+140504 21:19:09  InnoDB: Completed initialization of buffer pool
+140504 21:19:09  InnoDB: Started; log sequence number 0 44233
+140504 21:19:09 [ERROR] Can't start server: Bind on TCP/IP port: Address already in use
+140504 21:19:09 [ERROR] Do you already have another mysqld server running on port: 33060 ?
+140504 21:19:09 [ERROR] Aborting
+
+140504 21:19:09  InnoDB: Starting shutdown...
+140504 21:19:15  InnoDB: Shutdown completed; log sequence number 0 44233
+140504 21:19:15 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140504 21:19:15 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140504 21:29:26 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140504 21:29:26 [Warning] One can only use the --user switch if running as root
+
+140504 21:29:26 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140504 21:29:26  InnoDB: Initializing buffer pool, size = 16.0M
+140504 21:29:26  InnoDB: Completed initialization of buffer pool
+140504 21:29:27  InnoDB: Started; log sequence number 0 44233
+140504 21:29:27 [Note] Event Scheduler: Loaded 0 events
+140504 21:29:27 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140504 21:40:07 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140504 21:40:07 [Note] Event Scheduler: Purging the queue. 0 events
+140504 21:40:09  InnoDB: Starting shutdown...
+140504 21:40:12  InnoDB: Shutdown completed; log sequence number 0 44233
+140504 21:40:12 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140504 21:40:12 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140504 22:25:38 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140504 22:25:39 [Warning] One can only use the --user switch if running as root
+
+140504 22:25:39 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140504 22:25:39  InnoDB: Initializing buffer pool, size = 16.0M
+140504 22:25:39  InnoDB: Completed initialization of buffer pool
+140504 22:25:39  InnoDB: Started; log sequence number 0 44233
+140504 22:25:39 [Note] Event Scheduler: Loaded 0 events
+140504 22:25:39 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140504 22:27:22 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140504 22:27:22 [Note] Event Scheduler: Purging the queue. 0 events
+140504 22:27:22  InnoDB: Starting shutdown...
+140504 22:27:24  InnoDB: Shutdown completed; log sequence number 0 44233
+140504 22:27:24 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140504 22:27:24 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140505 17:05:14 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140505 17:05:14 [Warning] One can only use the --user switch if running as root
+
+140505 17:05:14 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140505 17:05:14  InnoDB: Initializing buffer pool, size = 16.0M
+140505 17:05:14  InnoDB: Completed initialization of buffer pool
+140505 17:05:14  InnoDB: Started; log sequence number 0 44233
+140505 17:05:14 [Note] Event Scheduler: Loaded 0 events
+140505 17:05:14 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140505 17:10:35 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140505 17:10:35 [Note] Event Scheduler: Purging the queue. 0 events
+140505 17:10:37  InnoDB: Starting shutdown...
+140505 17:10:40  InnoDB: Shutdown completed; log sequence number 0 44233
+140505 17:10:40 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140505 17:10:40 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140505 17:14:13 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140505 17:14:13 [Warning] One can only use the --user switch if running as root
+
+140505 17:14:13 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140505 17:14:13  InnoDB: Initializing buffer pool, size = 16.0M
+140505 17:14:13  InnoDB: Completed initialization of buffer pool
+140505 17:14:13  InnoDB: Started; log sequence number 0 44233
+140505 17:14:13 [Note] Event Scheduler: Loaded 0 events
+140505 17:14:13 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140505 17:14:47 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140505 17:14:47 [Note] Event Scheduler: Purging the queue. 0 events
+140505 17:14:49  InnoDB: Starting shutdown...
+140505 17:14:53  InnoDB: Shutdown completed; log sequence number 0 44233
+140505 17:14:53 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140505 17:14:53 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140505 17:15:28 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140505 17:15:28 [Warning] One can only use the --user switch if running as root
+
+140505 17:15:28 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140505 17:15:28  InnoDB: Initializing buffer pool, size = 16.0M
+140505 17:15:28  InnoDB: Completed initialization of buffer pool
+140505 17:15:28  InnoDB: Started; log sequence number 0 44233
+140505 17:15:28 [Note] Event Scheduler: Loaded 0 events
+140505 17:15:28 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140505 17:27:29 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140505 17:27:29 [Note] Event Scheduler: Purging the queue. 0 events
+140505 17:27:31  InnoDB: Starting shutdown...
+140505 17:27:34  InnoDB: Shutdown completed; log sequence number 0 44233
+140505 17:27:34 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140505 17:27:34 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140505 17:35:37 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140505 17:35:37 [Warning] One can only use the --user switch if running as root
+
+140505 17:35:37 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140505 17:35:37  InnoDB: Initializing buffer pool, size = 16.0M
+140505 17:35:37  InnoDB: Completed initialization of buffer pool
+140505 17:35:37  InnoDB: Started; log sequence number 0 44233
+140505 17:35:37 [Note] Event Scheduler: Loaded 0 events
+140505 17:35:37 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140505 17:37:22 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140505 17:37:22 [Note] Event Scheduler: Purging the queue. 0 events
+140505 17:37:22  InnoDB: Starting shutdown...
+140505 17:37:23  InnoDB: Shutdown completed; log sequence number 0 44233
+140505 17:37:23 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140505 17:37:23 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140505 17:47:00 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140505 17:47:00 [Warning] One can only use the --user switch if running as root
+
+140505 17:47:00 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140505 17:47:00  InnoDB: Initializing buffer pool, size = 16.0M
+140505 17:47:00  InnoDB: Completed initialization of buffer pool
+140505 17:47:01  InnoDB: Started; log sequence number 0 44233
+140505 17:47:01 [Note] Event Scheduler: Loaded 0 events
+140505 17:47:01 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140505 18:05:57 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140505 18:05:57 [Note] Event Scheduler: Purging the queue. 0 events
+140505 18:05:59  InnoDB: Starting shutdown...
+140505 18:06:02  InnoDB: Shutdown completed; log sequence number 0 44233
+140505 18:06:02 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140505 18:06:02 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
+140505 21:25:09 mysqld_safe Starting mysqld daemon with databases from /homes/okorneck/mysqld/data
+140505 21:25:09 [Warning] One can only use the --user switch if running as root
+
+140505 21:25:09 [Warning] No argument was provided to --log-bin, and --log-bin-index was not used; so replication may break when this MySQL server acts as a master and has his hostname changed!! Please use '--log-bin=mysqld-bin' to avoid this problem.
+140505 21:25:09  InnoDB: Initializing buffer pool, size = 16.0M
+140505 21:25:09  InnoDB: Completed initialization of buffer pool
+140505 21:25:09  InnoDB: Started; log sequence number 0 44233
+140505 21:25:09 [Note] Event Scheduler: Loaded 0 events
+140505 21:25:09 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.1.70-log'  socket: '/homes/okorneck/mysqld/mysqld.sock'  port: 33060  Gentoo Linux mysql-5.1.70
+140506  2:46:24 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140506  2:46:24 [Note] Event Scheduler: Purging the queue. 0 events
+140506  2:46:24  InnoDB: Starting shutdown...
+140506  2:46:29  InnoDB: Shutdown completed; log sequence number 0 44233
+140506  2:46:29 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140506 02:46:29 mysqld_safe mysqld from pid file /homes/okorneck/mysqld/mysqld.pid ended
